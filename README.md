@@ -1,6 +1,7 @@
 # ESP32 Security System - ENG 
 
 This project is a security system for ESP32, allowing users to enter a PIN using a 4x4 membrane keypad. If the PIN is entered correctly, the system displays a message on the LCD screen, and in case of an incorrect PIN, it sends an email notification using MQTT.
+- [Project Diagram](https://coggle.it/diagram/Zjx4aq4Gr7SFRWVx/t/chytr%C3%BD-z%C3%A1mek%F0%9F%A7%A0%F0%9F%94%92/20672b1634909aed497d98de96c98880f082fbf0277c11aa38c6f90ced6ce471): For a visual representation of the project architecture and components.
 
 ## Features
 
@@ -42,7 +43,7 @@ This project is a security system for ESP32, allowing users to enter a PIN using
 # ESP32 Security System - CZ
 
 Tento projekt je zabezpečovací systém pro ESP32, který umožňuje uživatelům zadávat PIN pomocí 4x4 membránové klávesnice. Pokud je PIN zadán správně, systém zobrazí hlášku na LCD displeji a v případě chybného PINu odešle upozornění e-mailem pomocí MQTT.
-
+- [Schéma projektu](https://coggle.it/diagram/Zjx4aq4Gr7SFRWVx/t/chytr%C3%BD-z%C3%A1mek%F0%9F%A7%A0%F0%9F%94%92/20672b1634909aed497d98de96c98880f082fbf0277c11aa38c6f90ced6ce471): Pro vizuální znázornění architektury a komponent projektu.
 ## Funkce
 
 - Zadání čtyřmístného PINu pomocí 4x4 membránové klávesnice
